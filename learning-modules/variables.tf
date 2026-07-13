@@ -1,5 +1,4 @@
 # THis is a test comment
-# This is the 2nd comment
 variable "vpc_name" {
   description = "Name of VPC"
   type        = string
